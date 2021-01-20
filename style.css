@@ -1,0 +1,719 @@
+.topblueblock{
+	position: absolute;
+	height: 700px;
+	width: 1320px;
+	float: left;
+	top: 0px;
+	left: 0px;
+
+	background: #4383D3;
+	border-radius: 0px
+}
+.topwhiteblock{
+	position: absolute;
+	height: 325px;
+	width: 600px;
+	right: 0px;
+	top: 0px;
+
+	background: white;
+	border-radius: 0px;
+}
+.topimgblock{
+	position: absolute;
+	height: 375px;
+	width: 600px;
+	right: 0px;
+	top: 325px;	
+	background: url(imagetopbg.png);
+	border-radius: 0px;
+}
+.medium1blockleft{
+	position: absolute;
+	height: 500px;
+	width: 1105px;
+	float: left;
+	top: 700px;
+
+
+	background:	white;
+	border-radius: 0px;
+}
+.medium1blockright{
+	position: absolute;
+	height: 500px;
+	width: 800px;
+	top: 700px;
+	right: 0px;
+
+	border-radius: 0px;
+	background: url(imgmediumright.png);
+}
+.medium2block{
+	position: absolute;
+	height: 500px;
+	width: 100%;
+	top: 1200px;
+
+	background: #FFD426;
+	border-radius: 0px;
+}
+.medium3block{
+	position: absolute;
+	height: 600px;
+	width: 100%;
+	top: 1700px;
+
+
+	background: #4383D3;
+	border-radius: 0px;
+}
+.bottom{
+	position: absolute;
+	height: 225px;
+	width: 100%;
+	top: 2300px;
+
+	background: #FFFFFF;
+	border-radius: 0px;
+}
+.L{
+	position: absolute;
+	left: 40px;
+	top: 41px;
+}
+.s{
+	position: absolute;
+	left: 52px;
+	top: 41px;
+}
+.E{
+	position: absolute;
+	left: 60px;
+	top: 41px;
+}
+.F{
+	position: absolute;
+	left: 75px;
+	top: 41px;
+}
+.Ff{
+	position: absolute;
+	left: 90px;
+	top: 41px;
+}
+.Ee{
+	position: absolute;
+	left: 105px;
+	top: 41px;
+}
+.T{
+	position: absolute;
+	left: 120px;
+	top: 41px;
+}
+.C{
+	position: absolute;
+	left: 60px;
+	top: 60px;
+
+
+}
+.S{
+	position: absolute;
+	left: 75px;
+	top: 60px;
+
+}
+.P{
+	position: absolute;
+	left: 106px;
+	top: 60px;
+
+}
+ul{
+
+}
+li{
+	display: inline-block;
+	list-style: none;
+	margin-top: 50px;
+	margin-left: 140px;
+	margin-right: 50px;
+}
+a{
+	text-decoration: none;
+	color: black;
+	font-size: 17px;
+	line-height: 14px;
+	letter-spacing: 1px;
+	font-family: RoadRadio;
+	font-weight: 900;
+}
+.circle{
+	position: absolute;
+	right: 78px;
+	top: 38px;
+}
+.palka{
+	position: absolute;
+	right: 88px;
+	top: 56px;
+}
+.lypa{
+	position: absolute;
+	right: 90px;
+	top: 45px;
+}
+.bluedoll{
+	position: absolute;
+	left: 19.87%;
+	right: 70.7%;
+	top: 44.04%;
+	bottom: 45.07%;
+
+}
+.bluedollar{
+	position: absolute;
+	left: 275px;
+	top: 318px;
+}
+.whitecirclemedium{
+	position: absolute;
+	left: 10%;
+	right: 65.17%;
+	top: 51%;
+	bottom: 29.77%;
+}
+.palkabotcirclewhitemedium{
+	position: absolute;
+	left: 145px;
+	top: 385px;
+}
+.palkatopcirclemedium{
+	position: absolute;
+	left: 215px;
+	top: 370px;
+}
+.strelka{
+	position: absolute;
+	left: 256px;
+	top: 428px;
+}
+.LL{
+	position: absolute;
+	left: 195px;
+	top: 382px;
+	transform: matrix(0.49, 0.77, -1.08, 0.3, 0, 0);
+}
+.ss{
+	position: absolute;
+	left: 203px;
+	top: 390px;
+	transform: matrix(0.49, 0.77, -1.08, 0.3, 0, 0);
+}
+.EE{
+	position: absolute;
+	left: 202px;
+	top: 395px;
+	transform: matrix(0.49, 0.77, -1.08, 0.3, 0, 0);
+}
+.FF{
+	position: absolute;
+	left: 209px;
+	top: 407px;
+	transform: matrix(0.49, 0.77, -1.08, 0.3, 0, 0);
+
+}
+.Fff{
+	position: absolute;
+	left: 216px;
+	top: 418px;
+	transform: matrix(0.49, 0.77, -1.08, 0.3, 0, 0);
+}
+.EeE{
+	position: absolute;
+	left: 223px;
+	top: 429px;
+	transform: matrix(0.49, 0.77, -1.08, 0.3, 0, 0);
+}
+.TT{
+	position: absolute;
+	left: 229px;
+	top: 440px;
+	transform: matrix(0.49, 0.77, -1.08, 0.3, 0, 0);
+}
+.CC{
+	position: absolute;
+	left: 184px;
+	top: 405px;
+	transform: matrix(0.49, 0.77, -1.08, 0.3, 0, 0);
+}
+.SS{
+	position: absolute;
+	left: 188px;
+	top: 422px;
+	transform: matrix(0.49, 0.77, -1.08, 0.3, 0, 0);
+}
+.PP{
+	position: absolute;
+	left: 208px;
+	top: 440px;
+	transform: matrix(0.49, 0.77, -1.08, 0.3, 0, 0);
+}
+.smallwhitecircle{
+	position: absolute;
+	left: 5.98%;
+	top: 66.44%;
+	transform: matrix(0.83, 0.33, -0.72, 0.91, 0, 0);
+}
+.blackcup{
+	position: absolute;
+	left: 90px;
+	top: 474px;
+	transform: matrix(0.83, 0.33, -0.72, 0.91, 0, 0);
+}
+.yellowcircle{
+	position: absolute;
+	left: 17.88%;
+	top: 65.16%;
+}
+.blackline{
+	position: absolute;
+	left: 260px;
+	top: 520px;
+}
+.yellowA{
+	position: absolute;
+	left: 254px;
+	top: 500px;
+}
+.yellowG{
+	position: absolute;
+	left: 263px;
+	top: 481px;
+}
+.yellowI{
+	position: absolute;
+	left: 280px;
+	top: 472px;
+}
+.yellowR{
+	position: absolute;
+	left: 295px;
+	top: 465px;
+}
+.yellowE{
+	position: absolute;
+	left: 327px;
+	top: 467px;
+}
+.yellowN{
+	position: absolute;
+	left: 346px;
+	top: 473px;
+}
+.yellowS{
+	position: absolute;
+	left: 360px;
+	top: 492px;
+}
+.yellowE2{
+	position: absolute;
+	left: 363px;
+	top: 513px;
+}
+.yellowM{
+	position: absolute;
+	left: 357px;
+	top: 527px;
+}
+.yellowB{
+	position: absolute;
+	left: 341px;
+	top: 541px;
+}
+.yellowL{
+	position: absolute;
+	left: 320px;
+	top: 545px;
+}
+.yellowE3{
+	position: absolute;
+	left: 303px;
+	top: 547px;
+}
+.whitebigcircle{
+	position: absolute;
+	left: 330px;
+	top: 41.61%;
+}
+.palkawbc{
+	position: absolute;
+	left: 483px;
+	top: 305px;
+}
+.strelkawbc{
+	position: absolute;
+	left: 587px;
+	top: 323px;
+}
+.palkabwbc{
+	position: absolute;
+	left: 460px;
+	top: 400px;
+}
+.Lwbc{
+	position: absolute;
+	left: 490px;
+	top: 344px;
+}
+.SSwbc{
+	position: absolute;
+	left: 505px;
+	top: 344px;
+}
+.Ewbc{
+	position: absolute;
+	left: 510px;
+	top: 346px;
+}
+.Fwbc{
+	position: absolute;
+	left: 526px;
+	top: 348px;
+}
+.F2wbc{
+	position: absolute;
+	left: 542px;
+	top: 349px;
+}
+.E2wbc{
+	position: absolute;
+	left: 557px;
+	top: 351px;
+}
+.Twbc{
+	position: absolute;
+	left: 574px;
+	top: 352px;
+}
+.blueromb{
+	position: absolute;
+	left: 70px;
+	top: 500px;
+}
+.bluetriangle{
+	position: absolute;
+	left: 450px;
+	top: 450px;
+}
+.whiteromb{
+	position: absolute;
+	left: 585px;
+	top: 450px;
+}
+.yellowromb{
+	position: absolute;
+	left: 315px;
+	top: 500px;
+}
+.bluehuman{
+	position: absolute;
+	left: 570px;
+	top: 580px;
+}
+.whitecircleright{
+	position: absolute;
+	left: 685px;
+	top: 560px;
+}
+.yellowcircleright{
+	position: absolute;
+	top: 495px;
+	left: 780px;
+}
+.yellowrombright{
+	position: absolute;
+	top: 300px;
+	left: 780px;
+}
+.button{
+	position: absolute;
+	top: 250px;
+	left: 35px;
+}
+.firstp{
+	display: inline-block;
+	font-size: 45px;
+	font-weight: 400;
+	margin-left: 5%;
+	margin-top: 5%;
+
+}
+#buttontext{
+	font-size: 15px;
+	font-weight: 700;
+	line-height: 14px;
+	margin-left: 46px;
+	margin-top: 73px;
+}
+#text1{
+	display: inline-block;
+}
+#text2{
+	display: inline-block;
+	color: #4383D3;
+
+}
+#text3{
+	display: inline-block;
+	font-size: 45px;
+	font-weight: 400;
+	margin-left: 5%;
+}
+#text4{
+	display: inline-block;
+	font-size: 45px;
+	font-weight: 400;
+	margin-left: 5%;
+}
+.bluecircleright{
+	position: absolute;
+	top: 110px;
+	left: 175px;
+}
+.mediump{
+	margin-left: 250px;
+	margin-top: 100px;
+	font-size: 50px;
+	line-height: 45px;
+	font-weight: 400;
+	display: inline-block;
+}
+#text5{
+	margin-left: 250px;
+	font-size: 50px;
+	line-height: 45px;
+	font-weight: 400;
+	display: inline-block;
+}
+#text6{
+	font-size: 50px;
+	line-height: 45px;
+	font-weight: 400;
+	color: #4383D3;
+	display: inline-block;
+}
+#text7{
+	margin-left: 250px;
+	font-size: 50px;
+	line-height: 45px;
+	font-weight: 400;
+	color: #4383D3;
+	display: inline-block;
+}
+#text8{
+	margin-left: 250px;
+	font-size: 25px;
+	font-weight: 400;
+	margin-right: 185px;
+	margin-top: 20px;
+}
+.buttonmedium{
+	position: absolute;
+	top: 370px;
+	left: 250px;
+}
+#buttonmediumtext{
+	position: absolute;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 14px;
+	margin-left: 259px;
+	margin-top: 41px;
+
+}
+.yellowimg{
+	position: absolute;
+	top: 75px;
+}
+#text9{
+	font-size: 45px;
+	line-height: 43px;
+	margin-left: 1275px;
+	margin-top: 145px;
+}
+#text10{
+	font-size: 20px;
+	font-weight: 400;
+	margin-left: 1275px;
+	margin-right: 100px;
+	margin-top: 10px;
+}
+.yellowbuttonleft{
+	position: absolute;
+	left: 1275px;
+	top: 335px;
+}
+.yellowbuttonright{
+	position: absolute;
+	left: 1570px;
+	top: 335px;
+}
+#yellowbuttonleft{
+	position: absolute;
+	font-size: 14px;
+	font-weight: 750;
+	margin-left: 1285px;
+	top: 345px;
+}
+#yellowbuttonright{
+	position: absolute;
+	font-size: 14px;
+	font-weight: 750;
+	margin-left: 1580px;
+	top: 345px;
+}
+.whiterombbot{
+	position: absolute;
+	left: 100px;
+	top: 100px;
+}
+#text11{
+	font-weight: 400;
+	font-size: 40px;
+	margin-left: 100px;
+	margin-top: 235px;
+	margin-right: 1000px;
+}
+.column1img1{
+	position: absolute;
+	left: 1185px;
+	top: 135px;
+}
+.column1img2{
+	position: absolute;
+	left: 1185px;
+	top: 200px;
+}
+.column1img3{
+	position: absolute;
+	left: 1185px;
+	top: 265px;
+}
+.column1img4{
+	position: absolute;
+	left: 1185px;
+	top: 345px;
+}
+.column1img5{
+	position: absolute;
+	left: 1190px;
+	top: 408px;
+}
+.column2img1{
+	position: absolute;
+	left: 1350px;
+	top: 135px;
+}
+.column2img2{
+	position: absolute;
+	left: 1365px;
+	top: 190px;
+}
+.column2img3{
+	position: absolute;
+	left: 1345px;
+	top: 265px;
+}
+.column2img4{
+	position: absolute;
+	left: 1345px;
+	top: 335px;
+}
+.column2img5{
+	position: absolute;
+	left: 1345px;
+	top: 413px;
+}
+.column3img1{
+	position: absolute;
+	left: 1505px;
+	top: 135px;
+}
+.column3img2{
+	position: absolute;
+	left: 1505px;
+	top: 200px;
+}
+.column3img3{
+	position: absolute;
+	left: 1505px;
+	top: 265px;
+}
+.column3img4{
+	position: absolute;
+	left: 1505px;
+	top: 330px;
+}
+.column3img5{
+	position: absolute;
+	left: 1505px;
+	top: 415px;
+}
+.column4img1{
+	position: absolute;
+	left: 1655px;
+	top: 135px;
+}
+.column4img2{
+	position: absolute;
+	left: 1655px;
+	top: 200px;
+}
+.column4img3{
+	position: absolute;
+	left: 1655px;
+	top: 265px;
+}
+.column4img4{
+	position: absolute;
+	left: 1655px;
+	top: 330px;
+}
+.whiteblockbot{
+	position: absolute;
+	left: 70px;
+	top: 45px;
+}
+.whiteblockbot2{
+	position: absolute;
+	left: 425px;
+	top: 65px;
+}
+.whiteblockbot3{
+	position: absolute;
+	left: 700px;
+	top: 60px;
+}
+.whiteblockbot4{
+	position: absolute;
+	left: 1000px;
+	top: 65px;
+}
+.whiteblockbot5{
+	position: absolute;
+	left: 885px;
+	top: 200px;
+}
+.whiteblockbot6{
+	position: absolute;
+	left: 1400px;
+	top: 60px;
+}
+*{
+	margin: 0;
+	padding: 0;
+	display: block;
+}
